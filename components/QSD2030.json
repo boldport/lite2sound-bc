@@ -1,0 +1,91 @@
+{
+"pins":
+  {
+    "1":
+      {
+        "layout":
+        {
+    "pad": "pina",
+    "location": [-1.27, 0]
+        }
+      },
+      "2":
+        {
+          "layout":
+          {
+      "pad": "pinc",
+      "location": [1.27, 0]
+          }
+        }
+
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "path",
+          "layers": ["top"],
+          "value": "m -1.361217,-0.983616 c 0.016907,-0.333465 0.5171254,-0.308144 0.5002265,0.02532 v 0.46612141 c 0,0.33348303 -0.5002265,0.33348303 -0.5002265,0 V -0.958296 c -5.292e-4,-0.0084 -5.292e-4,-0.01688 0,-0.02532 z m 2.222603,0.02532 c 0,-0.333484 0.500227,-0.333484 0.500227,0 v 0.0118844 c 0,0.333484 -0.500227,0.333484 -0.500227,0 z",
+          "style": "fill",
+          "location": [0.1,-1.8],
+          "rotate":0
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+            "type":"circle",
+            "style":"stroke",
+            "diameter":5
+          }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pina":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "layers": ["top", "bottom"],
+          "diameter": 2,
+          "solderpaste": {}
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 0.9
+        }
+      ]
+    },
+    "pinc":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top", "bottom"],
+          "width": 2,
+          "height": 2,
+          "radii": {"tl": 0.25, "tr": 0.25, "bl": 0.25, "br": 0.25},
+          "solderpaste": {}
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 0.9
+        }
+      ]
+    }
+  }
+}

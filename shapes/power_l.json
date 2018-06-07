@@ -1,0 +1,40 @@
+{
+  "layout":
+  {
+    "pours":
+    {
+      "shapes":
+      [
+
+      ]
+    },
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type":"path",
+          "style":"fill",
+          "value":"m -5.5844639,-24.719481 c -0.00937,-0.03278 1.8368704,0.926033 3.5759192,0.861699 1.7390518,-0.06433 3.560655,-0.781178 3.560655,-0.781178 0,0 -1.9553507,-1.193476 -3.5968734,-1.033385 -1.641522,0.160079 -3.5397008,0.952864 -3.5397008,0.952864 z"
+        },
+        {
+          "gerber-lp":"cdcdcc",
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "1.8mm",
+          "letter-spacing": "0mm",
+          "line-height": "1.6mm",
+          "location": [
+            0,
+            0
+          ],
+          "rotate": 0,
+          "style": "fill",
+          "type": "text",
+          "value": "POWR"
+        }
+
+      ]
+    }
+  }
+}

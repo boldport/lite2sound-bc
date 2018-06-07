@@ -1,0 +1,68 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "location": [-2.54, 0],
+          "rotate": 0,
+          "style": "fill",
+          "type": "circle",
+          "diameter": 2
+        },
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "2mm",
+          "letter-spacing": "0mm",
+          "location": [-2.54, 0],
+          "rotate": 0,
+          "style": "fill",
+          "type": "text",
+          "gerber-lp":"c",
+          "value": "R"
+        },
+        {
+          "location": [0, 0],
+          "rotate": 0,
+          "style": "fill",
+          "type": "circle",
+          "diameter": 2
+        },
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "2.5mm",
+          "letter-spacing": "0mm",
+          "location": [0, 0],
+          "rotate": 0,
+          "style": "fill",
+          "type": "text",
+          "gerber-lp":"c",
+          "value": "—"
+        },
+        {
+          "location": [2.54, 0],
+          "rotate": 0,
+          "style": "fill",
+          "type": "circle",
+          "diameter": 2
+        },
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "2mm",
+          "letter-spacing": "0mm",
+          "location": [2.54, 0],
+          "rotate": 0,
+          "style": "fill",
+          "type": "text",
+          "gerber-lp":"c",
+          "value": "L"
+        }
+      ]
+    }
+}
+}

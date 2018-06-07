@@ -1,0 +1,142 @@
+{
+  "pins":
+  {
+  "1P":
+    {
+      "layout":
+      {
+	"pad": "pin",
+	"location": [-11.1, 4.6],
+  "rotate": 90
+      }
+    },
+  "2P":
+    {
+      "layout":
+      {
+	"pad": "pin",
+	"location": [-6.35, 0]
+      }
+    },
+  "3P":
+    {
+      "layout":
+      {
+	"pad": "pin",
+	"location": [-1.8, 4.6],
+  "rotate": 90
+      }
+    },
+  "1N":
+    {
+      "layout":
+      {
+	"pad": "pin",
+	"location": [1.8, 4.6],
+  "rotate": 90
+      }
+    },
+  "2N":
+    {
+      "layout":
+      {
+	"pad": "pin",
+	"location": [6.35, 0]
+      }
+    },
+  "3N":
+    {
+      "layout":
+      {
+	"pad": "pin",
+	"location": [11.1, 4.6],
+  "rotate": 90
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "location": [-6.35, 5],
+          "rotate": 0,
+          "style": "fill",
+          "type": "circle",
+          "diameter": 3.5
+        },
+        {
+          "layers": ["bottom","top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "2.6mm",
+          "letter-spacing": "0mm",
+          "line-height": "1.6mm",
+          "location": [-6.35, 5],
+          "rotate": 180,
+          "style": "fill",
+          "type": "text",
+          "gerber-lp":"cc",
+          "value": "–V"
+        },
+        {
+          "location": [6.35, 5],
+          "rotate": 0,
+          "style": "fill",
+          "type": "circle",
+          "diameter": 3.5
+        },
+        {
+          "layers": ["bottom","top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "2.6mm",
+          "letter-spacing": "0mm",
+          "line-height": "1.6mm",
+          "location": [6.35, 5],
+          "rotate": 180,
+          "style": "fill",
+          "type": "text",
+          "gerber-lp":"cc",
+          "value": "+V"
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 26.5,
+          "height": 49.7,
+          "location": [0, -24.85]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pin":
+    {
+      "shapes":
+      [
+        {
+          "type": "path",
+          "layers": ["top", "bottom"],
+          "value": "m -12.375,0.19921875 c -0.758348,0 -1.384766,0.6314598 -1.384766,1.38671875 0,0.7552582 0.629509,1.3847656 1.384766,1.3847656 0.847005,0 1.69401,0 2.5410156,0 0.7552574,0 1.3847656,-0.6295069 1.3847656,-1.3847656 0,-0.75525943 -0.6264176,-1.38671875 -1.3847656,-1.38671875 -0.8470056,0 -1.6940106,0 -2.5410156,0 z",
+          "soldermask": {
+              "type":"path",
+              "style":"fill",
+              "value": "m -12.371783,9.5980469 c -0.819579,0 -1.5,0.6804201 -1.5,1.5000001 0,0.819265 0.677394,1.501953 1.5,1.501953 0.847005,0 1.69401,0 2.5410154,0 0.8226059,0 1.5,-0.682689 1.5,-1.501953 0,-0.81958 -0.6804216,-1.5000001 -1.5,-1.5000001 -0.8470054,0 -1.6940104,0 -2.5410154,0 z"
+            },
+          "solderpaste": {}
+        }
+      ],
+      "drills":
+      [
+      ]
+    }
+
+  }
+}

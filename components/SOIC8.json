@@ -1,0 +1,139 @@
+{
+"pins":
+  {
+  "1":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.96, -1.905],
+        "label": "1"
+      }
+    },
+  "2":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.96, -0.635],
+        "label": "2"
+      }
+    },
+  "3":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.96, 0.635],
+        "label": "3"
+      }
+    },
+  "4":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [2.96, 1.905],
+        "label": "4"
+      }
+    },
+  "5":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.96, 1.905],
+        "label": "5"
+      }
+    },
+  "6":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.96, 0.635],
+        "label": "6"
+      }
+    },
+  "7":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.96, -0.635],
+        "label": "7"
+      }
+    },
+  "8":
+    {
+      "layout":
+      {
+        "pad": "pad",
+        "location": [-2.96, -1.905],
+        "label": "8"
+      }
+
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "style":"fill",
+          "layers": ["top"],
+          "height": 5,
+          "width": 4,
+          "radii": {"tl": 0.25, "tr": 0.25, "bl": 0.25, "br": 0.25}
+        },
+        {
+          "type":"circle",
+          "gerber-lp":"c",
+          "style":"fill",
+          "diameter":0.8,
+          "location": [-0.8,1.705]
+
+        }
+
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "height": 5,
+          "width": 4
+        },
+        {
+          "type": "rect",
+          "style": "stroke",
+          "stroke-width": 0.1,
+          "width": 0.54,
+          "height": 0.356,
+        "location": [-2.255, -1.905]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 2.1,
+          "height": 0.6,
+          "layers": ["top"]
+        }
+      ]
+    }
+  }
+}

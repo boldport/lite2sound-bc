@@ -1,0 +1,49 @@
+{
+  "layout":
+  {
+    "pours":
+    {
+      "shapes":
+      [
+
+      ]
+    },
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "2mm",
+          "letter-spacing": "0mm",
+          "line-height": "1.6mm",
+          "location": [
+            0,
+            -5.5
+          ],
+          "rotate": 0,
+          "style": "fill",
+          "type": "text",
+          "value": "LOW"
+        },
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "font-size": "2mm",
+          "letter-spacing": "0mm",
+          "line-height": "1.6mm",
+          "location": [
+            0,
+            5.5
+          ],
+          "rotate": 0,
+          "style": "fill",
+          "type": "text",
+          "value": "HIGH"
+        }
+
+      ]
+    }
+  }
+}

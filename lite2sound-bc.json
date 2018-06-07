@@ -1,0 +1,1166 @@
+{
+  "components": {
+    "B1": {
+      "footprint": "battery_contact", 
+      "layer": "top", 
+      "location": [
+        -15.702252, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "C1": {
+      "footprint": "SMD3mmRadial", 
+      "layer": "top", 
+      "location": [
+        -5.79151, 
+        -5.948514
+      ], 
+      "rotate": 172.633825, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": -90, 
+          "show": true
+        }
+      }
+    }, 
+    "C10": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -2.65668, 
+        -17.757109
+      ], 
+      "rotate": 337.786566, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "C11": {
+      "footprint": "SMD6mm3Radial", 
+      "layer": "top", 
+      "location": [
+        17.365198, 
+        19.64358
+      ], 
+      "rotate": 120, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -2.601329, 
+        18.075723
+      ], 
+      "rotate": 21.235626, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "C3": {
+      "footprint": "SMD3mmRadial", 
+      "layer": "top", 
+      "location": [
+        -1.893746, 
+        23.920253
+      ], 
+      "rotate": 115.299267, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": -90, 
+          "show": true
+        }
+      }
+    }, 
+    "C4": {
+      "footprint": "SMD3mmRadial", 
+      "layer": "top", 
+      "location": [
+        1.008715, 
+        -5.098579
+      ], 
+      "rotate": 352.90615, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "C5": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        3.624234, 
+        9.967279
+      ], 
+      "rotate": 285.598666, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cc", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "C6": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -5.673916, 
+        0.066365
+      ], 
+      "rotate": 270, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "C7": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        3.72384, 
+        -9.795761
+      ], 
+      "rotate": 253.839917, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cc", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "C9": {
+      "footprint": "SMD6mm3Radial", 
+      "layer": "top", 
+      "location": [
+        17.273399, 
+        -19.609813
+      ], 
+      "rotate": 60, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "D1": {
+      "footprint": "QSD2030", 
+      "layer": "top", 
+      "location": [
+        10.225416, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            2
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "D2": {
+      "footprint": "SOD123", 
+      "layer": "top", 
+      "location": [
+        -7.16802, 
+        -20.835153
+      ], 
+      "rotate": 71.859039, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            1.7
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "IC1": {
+      "footprint": "SOIC8", 
+      "layer": "top", 
+      "location": [
+        -2.751203, 
+        11.947992
+      ], 
+      "rotate": 15, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "ccc", 
+          "location": [
+            0, 
+            -0.65
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "IC2": {
+      "footprint": "SOIC8", 
+      "layer": "top", 
+      "location": [
+        -2.747887, 
+        -11.608359
+      ], 
+      "rotate": 345, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "ccc", 
+          "location": [
+            0, 
+            -0.65
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "J1": {
+      "footprint": "2way_terminal", 
+      "layer": "top", 
+      "location": [
+        -10.831954, 
+        -25.782765
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "J2": {
+      "footprint": "3way_terminal", 
+      "layer": "top", 
+      "location": [
+        -19.826974, 
+        -20.60984
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -7.431591, 
+        22.994794
+      ], 
+      "rotate": 295.915903, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -9.940043, 
+        16.421971
+      ], 
+      "rotate": 288.295104, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -12.153617, 
+        -22.041801
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -12.160321, 
+        -17.013661
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        1.029303, 
+        5.352577
+      ], 
+      "rotate": 7.804785, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        -5.821848, 
+        6.274819
+      ], 
+      "rotate": 7.649999, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        3.750376, 
+        -15.146907
+      ], 
+      "rotate": 335.147261, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R9": {
+      "footprint": "1206", 
+      "layer": "top", 
+      "location": [
+        3.686724, 
+        15.402946
+      ], 
+      "rotate": 23.554598, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "SW1": {
+      "footprint": "ckswitch", 
+      "layer": "top", 
+      "location": [
+        6.942464, 
+        21.492719
+      ], 
+      "rotate": 210, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "SW2": {
+      "footprint": "ckswitch", 
+      "layer": "top", 
+      "location": [
+        6.790832, 
+        -21.341003
+      ], 
+      "rotate": 150, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "VR1": {
+      "footprint": "TSR3386F", 
+      "layer": "top", 
+      "location": [
+        -21.01167, 
+        20.687988
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.8
+          ], 
+          "rotate": 180, 
+          "show": true
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "lite2sound-bc", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "A", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.25, 
+      "pad": 0.3, 
+      "route": 0.3
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.2, 
+      "path-scale": 1.1, 
+      "rect-buffer": 0.2
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        41.957246, 
+        -1.6840446
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: Lite2sound BC\nRevision: A\nDescription: a light-to-sound board\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Ben Barwise, ben@boldport.com\nBased on a circuit from Eric Archer of Rare Waves LLC\n   http://rarewaves.net/"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        41.82272, 
+        -16.503546
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top (white), bottom (white)\nSoldermask: top (green), bottom (green)\nSurface finish: ENIG"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        38.012729, 
+        -27.276989
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      25.824326, 
+      10.12499
+    ]
+  }, 
+  "files": {
+    "routing-data": "ananas_routing.json", 
+    "routing-svg": "ananas.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": true, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "measurements": {
+      "font": "UbuntuMono-R-webfont", 
+      "scale": 0.0008
+    }, 
+    "shape": {
+      "type": "path", 
+      "value": "m -23.095018,-27.499874 c -0.828557,-9.2e-5 -1.500259,0.671609 -1.500166,1.500167 0,3.583244 0,7.166487 0,10.749731 3.4e-5,0.552237 0.447702,0.999905 0.999939,0.999939 1.242301,0 2.484603,0 3.726904,0 1.108,0 1.999878,0.891878 1.999878,1.999878 0,8.166771 0,16.333542 0,24.500313 0,1.107999 -0.891878,1.999877 -1.999878,1.999877 -1.242301,0 -2.484603,0 -3.726904,0 -0.552237,3.4e-5 -0.999906,0.447703 -0.999939,0.99994 0,3.583243 0,7.166487 0,10.74973 -9.4e-5,0.828561 0.671608,1.500259 1.500166,1.500169 0.996839,0 1.993677,0 2.990516,0 0.253214,0 0.506429,0 0.759643,0 10.6453453,0 21.2906907,0 31.936036,0 6.650149,0 12.003918,-5.351788 12.003918,-11.999786 0,-10.3333913 0,-20.6667827 0,-31.000174 0,-6.647999 -4.824595,-11.999776 -11.474751,-11.999784 -11.0749686,-1.3e-5 -22.1498788,1.3e-5 -33.224846,0 -0.996839,0 -1.993677,0 -2.990516,0 z m 36.478395,12.125875 c 0.24198,0 0.478094,0.107152 0.705897,0.311608 1.77e-4,1.77e-4 3.53e-4,3.53e-4 5.3e-4,5.3e-4 0.114006,0.161439 0.980035,0.877834 1.134813,1.744596 0.380339,1.967838 -0.529431,2.19741 -0.529166,2.348177 2.64e-4,0.150767 0.975376,0.600907 1.124479,2.3151041 0.149103,1.7141968 -1.052933,1.485769 -1.058333,1.6867188 -0.0054,0.2009497 1.454372,0.4468121 1.488281,1.7859374 0.04104,1.6205197 -0.981766,1.5944154 -0.959115,1.7528646 0.02265,0.1584489 1.305632,0.2985323 1.256771,1.7859375 -0.0405,1.2328932 -0.774028,1.42233222 -0.765328,1.55184311 0.0086,0.1295109 0.724828,0.31378525 0.765328,1.54667479 0.04887,1.4874107 -1.258872,1.6068198 -1.256771,1.7859375 0.0021,0.1791202 1.000154,0.1323445 0.959115,1.7528645 -0.03391,1.3391277 -1.506141,1.5601844 -1.488281,1.7859375 0.01786,0.2257557 1.207449,-0.027429 1.058333,1.6867187 -0.149103,1.7141985 -1.151329,2.0942695 -1.124479,2.3151045 0.02685,0.220837 0.909505,-0.148823 0.529166,1.81901 -0.165364,0.926042 -1.124479,2.4598 -1.124479,2.4598 0.0019,-7.94e-4 0.0038,-0.0019 0.0057,-0.0026 -0.232045,0.206295 -0.473372,0.314711 -0.722434,0.314711 -1.776386,0 -6.9825209,-5.522243 -8.0584252,-12.7651138 0.01651,-0.5398929 0.4603089,-0.9598819 1.0004558,-0.9601465 0.081477,0 0.1629533,0 0.24443,0 0.1677767,0 0.3355534,0 0.5033301,0 0.1471401,-0.00471 0.2119868,0.04758 0.2919703,0.1607132 0.067458,0.1062303 0.1592924,0.1893729 0.2371963,0.2862871 0.6330024,0.7874635 1.5759218,1.2766358 2.6060427,1.2779587 1.863074,-1.27e-4 3.3734,-1.5103528 3.373437,-3.37343745895 C 13.581753,-1.863567 12.071475,-3.3737158 10.208393,-3.373747 c -1.0301526,4.762e-4 -1.9739743,0.488846 -2.6075931,1.2758909 -0.0728,0.090423 -0.159512,0.1670669 -0.2232422,0.2656171 -0.08954,0.1247825 -0.1442852,0.1755545 -0.2914571,0.1829345 -0.1050748,0 -0.2101497,0 -0.3152245,0 -0.069419,0 -0.1388375,0 -0.2082562,0 -0.082165,0 -0.1643309,0 -0.2464964,0 -0.5359374,-0.00591 -0.9719548,-0.4332224 -0.9885707,-0.968933 1.0835587,-7.2427536 6.3221492,-12.7558105 8.0558402,-12.7558105 -5e-6,1.6e-5 -1.1e-5,3.3e-5 -1.6e-5,4.9e-5 z m -25.758119,3.659208 c 0.846632,0 1.693265,0 2.539897,0 0.3313711,0 0.5999636,0.268593 0.5999636,0.599963 0,0.331371 -0.2685925,0.599963 -0.5999636,0.599963 -0.846632,0 -1.693265,0 -2.539897,0 -0.331371,0 -0.599963,-0.268592 -0.599963,-0.599963 0,-0.33137 0.268592,-0.599963 0.599963,-0.599963 z m -3.305224,3.494877 c 0.331371,0 0.599963,0.2685923 0.599963,0.5999633 0,0.8466322 0,1.6932643 0,2.5398965 0,0.3313711 -0.268592,0.5999634 -0.599963,0.5999634 -0.331371,0 -0.599964,-0.2685923 -0.599964,-0.5999634 0,-0.8466322 0,-1.6932643 0,-2.5398965 0,-0.331371 0.268593,-0.5999633 0.599964,-0.5999633 z m 3.305224,6.0347735 c 0.846632,0 1.693265,0 2.539897,0 0.3313711,0 0.5999636,0.2685931 0.5999636,0.5999633 0,0.3313713 -0.2685925,0.59996335 -0.5999636,0.59996335 -0.846632,0 -1.693265,0 -2.539897,0 -0.331371,0 -0.599963,-0.26859205 -0.599963,-0.59996335 0,-0.3313702 0.268592,-0.5999633 0.599963,-0.5999633 z m 0,3.17035014 c 0.846632,0 1.693265,0 2.539897,0 0.3313711,0 0.5999636,0.26859176 0.5999636,0.59996126 0,0.3313721 -0.2685925,0.5999638 -0.5999636,0.5999638 -0.846632,0 -1.693265,0 -2.539897,0 -0.331371,0 -0.599963,-0.2685917 -0.599963,-0.5999638 0,-0.3313695 0.268592,-0.59996126 0.599963,-0.59996126 z m -3.305224,3.49487596 c 0.331371,0 0.599963,0.2685917 0.599963,0.5999638 0,0.8466323 0,1.6932645 0,2.5398968 0,0.3313695 -0.268592,0.5999639 -0.599963,0.5999639 -0.331371,0 -0.599964,-0.2685944 -0.599964,-0.5999639 0,-0.8466323 0,-1.6932645 0,-2.5398968 0,-0.3313721 0.268593,-0.5999638 0.599964,-0.5999638 z m 3.305224,6.0347724 c 0.846632,0 1.693265,0 2.539897,0 0.3313711,0 0.5999636,0.268595 0.5999636,0.599964 -5e-7,0.331375 -0.2685925,0.599964 -0.5999636,0.599964 -0.846632,0 -1.693265,0 -2.539897,0 -0.331371,0 -0.599963,-0.268589 -0.599963,-0.599964 0,-0.331369 0.268592,-0.599964 0.599963,-0.599964 z"
+    }
+  }, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "Boldport_l": {
+      "footprint": "boldport-logo2", 
+      "layer": "bottom", 
+      "location": [
+        -5.354374, 
+        -12.540872
+      ], 
+      "rotate": 77.253864, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "Headphones": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "headpones_label", 
+      "layer": "top", 
+      "location": [
+        -19.560762, 
+        -25.805506
+      ], 
+      "rotate": 165, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "bottom_mask": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "bottom_mask", 
+      "layer": "bottom", 
+      "location": [
+        18.894554, 
+        0.015153
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "bottom_pour": {
+      "footprint": "bottom_pour", 
+      "layer": "bottom", 
+      "location": [
+        -5.586455, 
+        0.050469
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "bottom_silk": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "bottom_silk", 
+      "layer": "bottom", 
+      "location": [
+        3.344146, 
+        -0.077893
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "eye": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "eye", 
+      "layer": "top", 
+      "location": [
+        19.366236, 
+        0.173892
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "eyelash": {
+      "footprint": "eyelash", 
+      "layer": "top", 
+      "location": [
+        -3.357812, 
+        0.048698
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "gswitch_l": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "gain_l", 
+      "layer": "top", 
+      "location": [
+        11.249951, 
+        25.336955
+      ], 
+      "rotate": 30, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "gswitch_label": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "gain_switch", 
+      "layer": "top", 
+      "location": [
+        6.942464, 
+        21.492719
+      ], 
+      "rotate": 120, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "lgr": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "l-g-r", 
+      "layer": "bottom", 
+      "location": [
+        -14.335631, 
+        -20.514721
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "lite2sound_lb": {
+      "footprint": "lite2sound_logo", 
+      "layer": "bottom", 
+      "location": [
+        19.351393, 
+        -9.417188
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "perspective": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "perspective", 
+      "layer": "top", 
+      "location": [
+        20.329196, 
+        0.163907
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "pswitch_l": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "power_l", 
+      "layer": "top", 
+      "location": [
+        11.201089, 
+        -25.128425
+      ], 
+      "rotate": 150, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "pswitch_label": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "power_switch", 
+      "layer": "top", 
+      "location": [
+        6.93966, 
+        -21.489827
+      ], 
+      "rotate": 60, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "rw_logo": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "rarewaves_logo", 
+      "layer": "bottom", 
+      "location": [
+        -2.431552, 
+        14.294394
+      ], 
+      "rotate": 105, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "vol_l": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "vol_l", 
+      "layer": "top", 
+      "location": [
+        -11.720773, 
+        21.019744
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "zlite2sound_lt": {
+      "footprint": "lite2sound_logo", 
+      "layer": "top", 
+      "location": [
+        19.351393, 
+        9.579363
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }
+  }
+}
